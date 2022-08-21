@@ -6,7 +6,7 @@
 ## OBJETIVO DA APLICAÇÃO
 
 Nessa aplicação coloquei em prática, criar um ambiente 100% em docker,
-acessando o banco de dados com orm dapper.
+acessando o banco de dados com o orm dapper.
 
 ## BANCO DE DADOS
 
