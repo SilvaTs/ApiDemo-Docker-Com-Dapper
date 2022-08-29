@@ -28,7 +28,7 @@ o banco de dados que eu escolhi foi o sqlserver.
     docker build -t dockerwebapi . 
 
     
-## Executar o conatiner com docker-compose 
+## Executar o container com docker-compose 
 
     docker-compose up --build
 
